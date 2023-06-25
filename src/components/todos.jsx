@@ -11,25 +11,25 @@ export default class Todos extends Component {
     state = {
         todos : [
             {
-                id:'hgregrt',
-                text:'main todo text',
-                description:'main todo description',
+                id:'hgregrtf',
+                text:'Read Newspaper',
+                description:'Read newspaper regularly',
                 time:new Date(),
                 isComplete:false,
                 isSelect:false
             },
             {
-                id:'hgreggrt',
-                text:'Nice',
-                description:'main todo description',
+                id:'hgreggrtffff',
+                text:'Take Exercise',
+                description:'Take exercise in proper time',
                 time:new Date(),
                 isComplete:false,
                 isSelect:false
             },
             {
-                id:'hgrjegrt',
-                text:'Awesome',
-                description:'main todo description',
+                id:'hgrjegrtff',
+                text:'Play Games',
+                description:'Play various ty[es of games',
                 time:new Date(),
                 isComplete:false,
                 isSelect:false
